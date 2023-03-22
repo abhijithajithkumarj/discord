@@ -1,0 +1,37 @@
+.nav-ul{
+    margin-left: 200px;
+
+
+
+}
+.div-two button{
+    width: 19em;
+    height: 3.5em;
+    border-radius: 30px;
+}
+
+.h1-font{
+    font-size: large;
+    font-weight: 900;
+
+}
+.tat-tag{
+    font-size:.6cm;
+    font-weight: 400;
+}
+.final-btn button{
+    width: 19em;
+    height: 3.5em;
+    border: 1px solid gray;
+    border-radius: 30px;
+    background: #404eed;
+    color: white;
+
+}
+i{
+ margin: 5px;
+}
+.last-div li{
+    font-size: large;
+}
+
